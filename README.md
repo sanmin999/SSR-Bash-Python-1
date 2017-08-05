@@ -35,7 +35,7 @@ ShadowsocksR多用户管理脚本（基于官方mujson版本）
 
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/install.sh && bash install.sh
-
+    wget -N --no-check-certificate https://raw.githubusercontent.com/sanmin999/SSR-Bash-Python-1/master/install.sh && bash install.sh
 ## 卸载 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/ImAnyOne/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
     
